@@ -1,4 +1,4 @@
-package org.acme.service.exceptions;
+package org.acme.service.exception;
 
 public class InvalidArgumentException extends RuntimeException {
 
