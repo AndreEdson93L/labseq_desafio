@@ -1,7 +1,7 @@
-package org.acme.service.implementation;
+package org.acme.services.implementations;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import org.acme.service.interfaces.LabSeqService;
+import org.acme.services.interfaces.LabSeqService;
 import org.acme.utils.LabSeqCacheSystem;
 
 /**

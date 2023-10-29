@@ -1,6 +1,6 @@
 package org.acme.utils;
 
-import org.acme.service.exception.InvalidArgumentException;
+import org.acme.services.exceptions.InvalidArgumentException;
 
 import java.util.HashMap;
 import java.util.Map;

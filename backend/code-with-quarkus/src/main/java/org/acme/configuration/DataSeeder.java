@@ -4,7 +4,7 @@ import io.quarkus.runtime.Startup;
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
-import org.acme.service.implementation.LabSeqServiceImpl;
+import org.acme.services.implementations.LabSeqServiceImpl;
 
 @Startup
 @ApplicationScoped

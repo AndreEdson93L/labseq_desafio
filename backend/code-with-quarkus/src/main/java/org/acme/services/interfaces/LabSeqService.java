@@ -1,4 +1,4 @@
-package org.acme.service.interfaces;
+package org.acme.services.interfaces;
 
 /**
  * Service interface for calculating Labseq values.
