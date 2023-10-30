@@ -57,17 +57,23 @@ git clone https://github.com/AndreEdson93L/labseq_desafio.git
 
 ### Frontend Testing
 1. Navigate to the frontend directory.
-2. Execute to install dependencies.
+   ```code
+   cd labseq_desafio/
+   cd frontend/
+   cd lab-seq-frontend/
+   
+   ```
+3. Execute to install dependencies.
    ```code
    npm install
    
    ```
-3. Execute to start the frontend.
+4. Execute to start the frontend.
    ```code
    ng serve
    
    ```
-4. Access the frontend application and test the LabSeq calculation functionality. The frontend will be accessible at: [http://localhost:4200/](http://localhost:4200/)
+5. Access the frontend application and test the LabSeq calculation functionality. The frontend will be accessible at: [http://localhost:4200/](http://localhost:4200/)
 
 ### API Endpoint
 You can directly access the LabSeq calculation endpoint at:
