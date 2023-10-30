@@ -43,7 +43,9 @@ git clone https://github.com/AndreEdson93L/labseq_desafio.git
 ### Backend Testing
 1. Navigate to the backend directory.
    ```code
-   cd [your directory]
+   cd labseq_desafio/
+   cd backend/
+   cd code-with-quarkus/
    
    ```
 3. Execute to start the backend.
